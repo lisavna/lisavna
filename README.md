@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Karina!
+- 🌱 I’m currently learning HTML, CSS, JS.
+- 📫 Gomel. Belarus. lisavnaa@gmail.com
